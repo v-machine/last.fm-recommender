@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: jupyter-testing
+Version: 0.0.2
+Summary: Testing in Jupyter Notebooks
+Home-page: https://github.com/gauravmm/jupyter-testing
+Author: Gaurav Manek
+Author-email: gaurav@gauravmanek.com
+License: UNKNOWN
+Description: # jupyter-testing
+        
+        Simple nose-like testing framework for testing within Jupyter Notebooks.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
