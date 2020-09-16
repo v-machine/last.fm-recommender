@@ -6,3 +6,4 @@ In this project we built and analyzed two end-to-end recommender systems for the
 
 Collaborator: Zhihao Fang, Siyu Guo
 
+[View Jupyter Notebook}(https://github.com/v-machine/last.fm-recommender/blob/master/last_fm_recommender.ipynb)
